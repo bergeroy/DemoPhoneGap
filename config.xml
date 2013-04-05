@@ -12,5 +12,7 @@
 	    <description>
 	        Exemple d'intégration Sencha Touch + PhoneGap 
 	    </description>
+	    
+	    <gap:plugin name="BarcodeScanner" /> <!-- latest release -->
 	
 	</widget>
